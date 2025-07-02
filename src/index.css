@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HR:wght@100..400&display=swap');
+@plugin "daisyui";
+
+:root {
+    background-color: rgb(38, 37, 37);
+
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+}
+
+.name-style {
+    font-family: "Dancing Script", cursive;
+}
+
+/* .muksitul {
+    font-family: "Playwrite HR", cursive;
+} */
