@@ -23,7 +23,7 @@ const Home = () => {
             </div>
             <div className='hidden lg:flex justify-center'><Footer></Footer></div>
             <div className='flex gap-5 '>
-                <div className='hidden lg:flex gap-10 sticky top-[150px] z-[999] h-fit'>
+                <div className='hidden lg:flex gap-10 sticky top-22 z-[999] h-fit'>
                     <Navigation></Navigation>
                     <Profile></Profile>
                 </div>

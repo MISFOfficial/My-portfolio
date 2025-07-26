@@ -42,14 +42,14 @@ const Contact = () => {
                             <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800 text-xl">
                                 <MdEmail></MdEmail>
                             </span>
-                            <p className="mt-2 text-blue-500">muksitul15-3962@diu.edu.bd</p>
+                            <p className="mt-2 text-blue-500">muksitul44@gmail.com</p>
                         </div>
 
                         <div className='flex flex-row md:flex-col gap-2 items-center md:items-start'>
                             <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800 text-xl">
                                 <FaLocationDot></FaLocationDot>
                             </span>
-                            <p className="mt-2 text-blue-500">2300, Battrish, Kishoreganj, Dhaka, Bangladesh</p>
+                            <p className="mt-2 text-blue-500">Dhaka, Bangladesh</p>
                         </div>
 
                         <div className='flex flex-row md:flex-col gap-2 items-center md:items-start'>
